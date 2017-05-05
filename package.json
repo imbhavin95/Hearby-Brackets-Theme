@@ -1,0 +1,20 @@
+{
+    "title": "Hearby Brackets Theme",
+    "name": "Hearby-Brackets-Theme",
+    "description": "Hearby Theme for Brackets. A theme for Professional Programmers. A Brackets original.",
+    "version": "1.0.2",
+    "author": "imbhavin95 (https://github.com/imbhavin95)",
+    "homepage": "https://github.com/imbhavin95/Hearby-Brackets-Theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/imbhavin95/Hearby-Brackets-Theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "hearby.css",
+        "dark": false
+    }
+}
